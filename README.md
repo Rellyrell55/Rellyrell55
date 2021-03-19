@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Terrell Cooper</h1>
 <h3 align="center">A passionate full stack developer from Denver, CO</h3>
 
-- 🎶 I’m currently working on my [NetFlix Clone](https://github.com/Rellyrell55/NetflixClone)
+- 🎶 I’m currently working on my [Netflix Clone](https://github.com/Rellyrell55/NetflixClone)
 
 - 🌱 I’m currently learning **Swift, ReactNative, Django/Python**
 
